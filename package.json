@@ -1,0 +1,23 @@
+{
+  "name": "mbusparser",
+  "version": "1.0.0",
+  "description": "This package uses node.js to parse base64 encoded mbus packages",
+  "main": "mbusParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oss Norge AS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossno/parsembus"
+  },
+  "bugs": {
+    "url": "https://github.com/ossno/parsembus/issues"
+  },
+  "homepage": "https://github.com/ossno/parsembus#README",
+  "dependencies": {
+    "crc": "^3.8.0",
+    "int64-buffer": "^0.99.1007"
+  }
+}
