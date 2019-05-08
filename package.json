@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ossno/parsembus"
+    "url": "git+https://github.com/ossno/mbusparser"
   },
   "bugs": {
-    "url": "https://github.com/ossno/parsembus/issues"
+    "url": "https://github.com/ossno/mbusparser/issues"
   },
-  "homepage": "https://github.com/ossno/parsembus#README",
+  "homepage": "https://github.com/ossno/mbusparser#mbusparser",
   "dependencies": {
     "crc": "^3.8.0",
     "int64-buffer": "^0.99.1007"
