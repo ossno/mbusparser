@@ -79,7 +79,7 @@ ObisHeader.prototype = {
             }
         }
         if (i == 1) return buf.readUInt8(0);
-        if (i == 2) return buf.readUIn16LE(0);
+        if (i == 2) return buf.readUInt16LE(0);
         if (i == 3) return buf.readUInt32LE(0);
     }
 }
